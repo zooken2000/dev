@@ -1,2 +1,3 @@
 Hello, Git!
 This is a Git practice file.
+Added new feature!
